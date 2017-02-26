@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items>
 	<item>
+		<version>2.8.1.0</version>
+		<file>aiLocalizer_2.8.1.0_portable.exe</file>
+		<md5>0E895861FFAF504A3BE6CCB375ADCF22</md5>
+		<installer>aiLocalizer_2.8.1.0.exe</installer>
+		<installer_md5>56E08AD44C7A29AFF8D510533B1E809A</installer_md5>
+		<changelog>    ! Fixed plurals naming</changelog>
+	</item>
+	<item>
 		<version>2.8.0.0</version>
 		<file>aiLocalizer_2.8.0.0_portable.exe</file>
 		<md5>503D496E0F3A85F5A0B0F5B74A688AF9</md5>
