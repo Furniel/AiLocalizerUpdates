@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items>
 	<item>
+		<version>2.8.4.0</version>
+		<file>aiLocalizer_2.8.4.0_portable.exe</file>
+		<md5>409000BBA12DA1EDC586378807DAFA56</md5>
+		<installer>aiLocalizer_2.8.4.0.exe</installer>
+		<installer_md5>9A7C548EDA3F258967017F93B78B43E3</installer_md5>
+		<changelog>    ! Fixed Multiple substitutions specified in non-positional format for plurals and arrays </changelog>
+	</item>
+	<item>
 		<version>2.8.3.0</version>
 		<file>aiLocalizer_2.8.3.0_portable.exe</file>
 		<md5>BA181C1E4A3E632974D9405CA9BD477F</md5>
