@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items>
 	<item>
+		<version>2.8.5.0</version>
+		<file>aiLocalizer_2.8.5.0_portable.exe</file>
+		<md5>3B2871684AD4DB14086228420B3021EA</md5>
+		<installer>aiLocalizer_2.8.5.0.exe</installer>
+		<installer_md5>492C0F292E62036825356AF9E08E46FB</installer_md5>
+		<changelog>    ! Removed Bing translation
+		    ! Added support for new Google translate languages</changelog>
+	</item>
+	<item>
 		<version>2.8.4.1</version>
 		<file>aiLocalizer_2.8.4.1_portable.exe</file>
 		<md5>D39AC7294735DB854CA438E14449ABD3</md5>
