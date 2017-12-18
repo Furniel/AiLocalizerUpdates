@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items>
 	<item>
+		<version>2.9.0.0</version>
+		<file>aiLocalizer_2.9.0.0_portable.exe</file>
+		<md5>C78C3B06B84E9741708C176E84B2E664</md5>
+		<installer>aiLocalizer_2.9.0.0.exe</installer>
+		<installer_md5>7AE42CB22C5A316E4E8A5A08A4654C2C</installer_md5>
+		<changelog>    + DeepL transtor added
+		    ! Fixes for unicode chars in translation results</changelog>
+	</item>
+	<item>
 		<version>2.8.6.0</version>
 		<file>aiLocalizer_2.8.6.0_portable.exe</file>
 		<md5>48E17517C4F35F01BFD3A90EF6C0BA88</md5>
 		<installer>aiLocalizer_2.8.6.0.exe</installer>
 		<installer_md5>25F4CDB2532D0F3882DAA63955E5B211</installer_md5>
-		<changelog>    ! Added Bing translation back
+		<changelog>    + Added Bing translation back
 		    ! Minor code fixes</changelog>
 	</item>
 	<item>
@@ -15,7 +24,7 @@
 		<md5>3B2871684AD4DB14086228420B3021EA</md5>
 		<installer>aiLocalizer_2.8.5.0.exe</installer>
 		<installer_md5>492C0F292E62036825356AF9E08E46FB</installer_md5>
-		<changelog>    ! Removed Bing translation
+		<changelog>    - Removed Bing translation
 		    ! Added support for new Google translate languages</changelog>
 	</item>
 	<item>
