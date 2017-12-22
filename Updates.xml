@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items>
 	<item>
+		<version>2.10.1.0</version>
+		<file>aiLocalizer_2.10.1.0_portable.exe</file>
+		<md5>E1FA48FEAC7DF5E54AF65A9D5E346D21</md5>
+		<installer>aiLocalizer_2.10.1.0.exe</installer>
+		<installer_md5>8DB89030422A19C4D8EFBB2B683CE640</installer_md5>
+		<changelog>    ! Minor xml parsing fixes</changelog>
+	</item>
+	<item>
 		<version>2.10.0.0</version>
 		<file>aiLocalizer_2.10.0.0_portable.exe</file>
 		<md5>324AB02425DF8E9C9EBA1C73BA7AC5B0</md5>
