@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items>
 	<item>
+		<version>2.11.1.0</version>
+		<file>aiLocalizer_2.11.1.0_portable.exe</file>
+		<md5>80FD50F1F8C67C41BF05AC8D27D264A6</md5>
+		<installer>aiLocalizer_2.11.1.0.exe</installer>
+		<installer_md5>495157A7C09477E8404944004C78F8CE</installer_md5>
+		<changelog>    ! Bing translator fixed again</changelog>
+	</item>
+	<item>
 		<version>2.11.0.0</version>
 		<file>aiLocalizer_2.11.0.0_portable.exe</file>
 		<md5>6A5BCCB1B77492AC594D11CC8DAF19C0</md5>
